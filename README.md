@@ -1,5 +1,5 @@
 ***
-# Robust-Log-Optimal-Strategy-with-Reinforcement-Learning
+# Stock Selection: a Framework
 
 Contributions
 ====
