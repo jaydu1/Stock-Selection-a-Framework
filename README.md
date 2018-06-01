@@ -40,3 +40,8 @@ Modules needed:
 Contact
 ====
 - fuxy28@mail2.sysu.edu.cn
+
+FAQ
+===
+- Currently, we are not going to reveal the original raw data.
+- The full instruction is under written.
