@@ -17,7 +17,8 @@ Contributors:
 
 Institutions: 
 ------- 
-- ***AI&FintechLab of Gradient Trading***
+- ***AI&FintechLab of Likelihood Technology***
+- ***Gradient Trading***
 - ***School of Mathematics,Sun Yat-sen University***
 - ***LingNan College,Sun Yat-sen University***
 
