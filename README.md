@@ -26,7 +26,7 @@ Set up
 ====
 Python Version:
 ------- 
-- 3.5
+- ***3.5***
 
 Modules needed:
 ------- 
