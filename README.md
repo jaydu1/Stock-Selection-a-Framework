@@ -3,10 +3,22 @@
 
 Contributions
 ====
-- There are 9 contributors to this work: ***XingYu Fu***; ***JingHong Du***; ***YiFeng Guo***; ***MingWen Liu***; ***Tao Dong***; ***XiuWen Duan***; ***ZiYi Yang***; ***MingDi Zheng***; ***Yuan Zeng***.<br>
-- Institutions: ***AI&FintechLab of Gradient Trading***; ***School of Mathematics,Sun Yat-sen University***; ***LingNan College,Sun Yat-sen University***; 
-- It is free to use the code for NON-COMMERCIAL purposes.<br>
-- For further contact, you can send email to ***fuxy28@mail2.sysu.edu.cn***<br>
+Contributors:
+------- 
+- ***XingYu Fu***
+- ***JingHong Du*** 
+- ***YiFeng Guo*** 
+- ***MingWen Liu*** 
+- ***Tao Dong***
+- ***XiuWen Duan***
+- ***ZiYi Yang***
+- ***MingDi Zheng***
+- ***Yuan Zeng***
+Institutions: 
+------- 
+- ***AI&FintechLab of Gradient Trading***
+- ***School of Mathematics,Sun Yat-sen University***
+- ***LingNan College,Sun Yat-sen University***
 
 Set up
 ====
@@ -21,4 +33,8 @@ Modules needed:
 - os
 - sklearn
 - tensorflow
-- keras                             
+- keras      
+
+Contact
+====
+- fuxy28@mail2.sysu.edu.cn
