@@ -7,6 +7,7 @@ ZiYi Yang; MingDi Zheng; Yuan Zeng;
 
 Institutions:
 AI&Fintech Lab of Likelihood Technology; 
+Gradient Trading;
 School of Mathematics, Sun Yat-sen University;
 LingNan College, Sun Yat-sen University;
 
