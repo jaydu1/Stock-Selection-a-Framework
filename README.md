@@ -19,8 +19,8 @@ Institutions:
 ------- 
 - ***AI&FintechLab of Likelihood Technology***
 - ***Gradient Trading***
-- ***School of Mathematics,Sun Yat-sen University***
-- ***LingNan College,Sun Yat-sen University***
+- ***School of Mathematics, Sun Yat-sen University***
+- ***LingNan College, Sun Yat-sen University***
 
 Set up
 ====
@@ -30,12 +30,12 @@ Python Version:
 
 Modules needed:
 ------- 
-- numpy
-- math
-- os
-- sklearn
-- tensorflow
-- keras      
+- ***numpy***
+- ***math***
+- ***os***
+- ***sklearn***
+- ***tensorflow***
+- ***keras***      
 
 Contact
 ====
